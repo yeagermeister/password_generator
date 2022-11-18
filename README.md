@@ -3,7 +3,7 @@ A web based password generator
 
 This generator gathers requirements from the end user to generate a secure password.  
 
-<img src="./assets/images/application_snapshot.png">
+<img src="./assets/images/application_screenshot.png">
 
 
 <a href="https://yeagermeister.github.io/password_generator/">Please try it out.</a>
